@@ -1,7 +1,7 @@
 body {
     /*background-color: brown;*/
     margin: 0;
-    background-image: url("http://prensas-caimanes.com/wp-content/uploads/2015/02/3POLI.jpg");
+    background-image: url("https://previews.123rf.com/images/eugenesergeev/eugenesergeev1509/eugenesergeev150900235/45072698-colorido-mosaico-de-piedra-con-el-patr%C3%B3n-ca%C3%B3tico-foto-de-fondo-de-textura.jpg");
     background-repeat: repeat;
 }
 
@@ -39,6 +39,6 @@ h1 {
 }
 
 #first-paragraph {
-    color: greenyellow;
+    color: black;
     font-size: 20vh;
 }
