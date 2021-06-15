@@ -1,0 +1,39 @@
+body {
+    /*background-color: brown;*/
+    margin: 0;
+    background-image: url("http://prensas-caimanes.com/wp-content/uploads/2015/02/3POLI.jpg");
+    background-repeat: repeat;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 35px;
+    background-color: coral;
+    height: 100px;
+    background-image: url("../assets/images/payloader.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.opcion-nav {
+    color: darkblue;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+#hero-home {
+    background-color: darkcyan;
+    height: 50vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-image: url("../assets/images/d9g.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    margin: 0;
+}
