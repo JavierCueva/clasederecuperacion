@@ -37,3 +37,8 @@ nav {
 h1 {
     margin: 0;
 }
+
+#first-paragraph {
+    color: greenyellow;
+    font-size: 20vh;
+}
